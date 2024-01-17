@@ -1,2 +1,2 @@
-# GenderAudio
-Gender recognition in audio recordings.
+# NIS
+Our project at HSE
